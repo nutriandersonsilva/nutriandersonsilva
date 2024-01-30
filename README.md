@@ -7,7 +7,7 @@
 
 <div>
 <p align="left">
-<a href="https://github.com/geovannaotoni">
+<a href="https://github.com/nutriandersonsilva">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannaotoni&show_icons=true&locale=en&layout=compact&theme=dark" alt="geovannaotoni"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en&theme=dark" alt="geovannaotoni"/>
 </a>
