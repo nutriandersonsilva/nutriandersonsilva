@@ -8,13 +8,12 @@
 
 ##
 
+<!-- Responsivo Card Theme -->
 <div>
-<p align="left">
-<a href="https://github.com/nutriandersonsilva">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nutriandersonsilva&show_icons=true&locale=en&layout=compact&theme=dark"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nutriandersonsilva&show_icons=true&locale=en&theme=dark" alt="nutriandersonsilva"/>
-</a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutriandersonsilva&hide_progress=trueresponsive-card-theme&theme=dark" />
+
+<!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nutriandersonsilva&show_icons=true&theme=dark" />
 </div>
 
 ##
