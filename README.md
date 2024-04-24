@@ -10,7 +10,7 @@
 <h3 align="left">📊 Minhas Estatísticas:</h3>
 <p align="left">
 <a href="https://github.com/nutriandersonsilva">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nutriandersonsilva&show_icons=true&locale=en&layout=compact&theme=dark" alt="anderson"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nutriandersonsilva&show_icons=true&locale=en&layout=compact&theme=dark" alt="anderson"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nutriandersonsilva&show_icons=true&locale=en&theme=dark" alt="anderson"/>
 </a>
 </p>
