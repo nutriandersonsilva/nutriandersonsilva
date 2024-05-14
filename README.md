@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F78&random=false&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Anderson+Silva)](https://git.io/typing-svg)
-#### Sou nutricionista de formação e desenvolvedor por paixão. 
+#### Após uma trajetória sólida como nutricionista, decidi realizar uma transição de carreira para seguir minha paixão pela tecnologia. Ao concluir um curso técnico em Desenvolvimento Web em 2022, dei início a uma nova fase profissional como programador.
+
 ##
 <div> 
    <a href="https://www.linkedin.com/in/nutriandersonsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
